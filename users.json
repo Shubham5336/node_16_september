@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Gusta",
+    "last_name": "Creek",
+    "email": "gcreek0@weibo.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Gauthier",
+    "last_name": "Avramovsky",
+    "email": "gavramovsky1@storify.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Hadria",
+    "last_name": "Heighway",
+    "email": "hheighway2@sciencedaily.com",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 4,
+    "first_name": "Darby",
+    "last_name": "Gellion",
+    "email": "dgellion3@hostgator.com",
+    "gender": "Agender"
+  },
+  {
+    "id": 5,
+    "first_name": "Rubina",
+    "last_name": "MacCahey",
+    "email": "rmaccahey4@skype.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Valeda",
+    "last_name": "Lewnden",
+    "email": "vlewnden5@pagesperso-orange.fr",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Stevie",
+    "last_name": "Scotsbrook",
+    "email": "sscotsbrook6@hatena.ne.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Arthur",
+    "last_name": "Whitmarsh",
+    "email": "awhitmarsh7@sun.com",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Kaylee",
+    "last_name": "Champness",
+    "email": "kchampness8@reuters.com",
+    "gender": "Bigender"
+  },
+  {
+    "id": 10,
+    "first_name": "Malinda",
+    "last_name": "Abrashkov",
+    "email": "mabrashkov9@studiopress.com",
+    "gender": "Female"
+  }
+]
